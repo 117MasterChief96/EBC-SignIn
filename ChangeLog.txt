@@ -1,4 +1,23 @@
 EBC-SignIn Change-log 
+	Version 1.13.802
+		Added:
+			1. Dark Mode Support for iOS 13 and later
+			2. Notifications prompt for up coming features
+
+		Changed:
+			1. Splash screen wording to be app logo
+
+		Fixed:
+			1. Minor Bugs
+			2. Added a workaround for an issue involving not loading events correctly or at all
+
+		Removed:
+			1. Problems with iOS 13 and later with displaying views
+
+		To-Do:
+			1. Constraint problem with the date, when events are extended
+			2. Large title needs to be disabled on the "Add Event" view
+			3. Minor changes to "About" view and "Settings" view
 	Version 1.13.791
 		Added:
 			1. Banner on settings view
