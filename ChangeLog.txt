@@ -18,6 +18,7 @@ EBC-SignIn Change-log
 			1. Constraint problem with the date, when events are extended
 			2. Large title needs to be disabled on the "Add Event" view
 			3. Minor changes to "About" view and "Settings" view
+
 	Version 1.13.791
 		Added:
 			1. Banner on settings view
