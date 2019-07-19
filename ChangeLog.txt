@@ -18,7 +18,7 @@ EBC-SignIn Change-log
 			1. None
 
 		To-Do:
-			1. None
+			1. Account Page to show everything about the current user
 
 	Version 1.13.791
 		Added:
